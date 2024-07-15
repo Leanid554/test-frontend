@@ -1,0 +1,14 @@
+@import './reset.css';
+
+.container {
+	margin: 0 auto;
+	padding: 0 15px;
+	
+	
+}
+.App{
+	min-height: 100vh;
+	display: flex;
+	flex-direction:column;
+	justify-content: space-between;
+}

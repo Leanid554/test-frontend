@@ -1,0 +1,34 @@
+{
+  "people": [
+    {
+      "firstName": "Jan",
+      "lastName": "Kowalski",
+      "city": "Warszawa"
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Nowak",
+      "city": "Kraków"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Wiśniewski",
+      "city": "Gdańsk"
+    },
+    {
+      "firstName": "Katarzyna",
+      "lastName": "Wójcik",
+      "city": "Poznań"
+    },
+    {
+      "firstName": "Marek",
+      "lastName": "Lewandowski",
+      "city": "Wrocław"
+    },
+    {
+      "firstName": "Magdalena",
+      "lastName": "Kamińska",
+      "city": "Łódź"
+    }
+  ]
+}
